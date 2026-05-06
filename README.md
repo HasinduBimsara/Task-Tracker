@@ -11,8 +11,7 @@ node task_cli.js add "Buy milk"
 ```
 
 ## Project Page
-https://github.com/HasinduBimsara/task-tracker-cli
-
+https://github.com/HasinduBimsara/Task-Tracker.git
 ---
 
 Full commands: `add`, `update`, `delete`, `mark-in-progress`, `mark-done`, `list [done/todo/in-progress]`. Tasks stored in `tasks.json`.
